@@ -11,4 +11,4 @@ This repository provides a simplified, step-by-step guide to setting up and admi
 - A virtual machine running Windows Server 2022
 - Basic understanding of networking and Windows administration
 
-[Download the original PDF guide](guide/active_directory_domain_services.pdf)
+[Original PDF Guide](guide/active_directory_domain_services.pdf)
