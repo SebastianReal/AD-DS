@@ -10,3 +10,5 @@ This repository provides a simplified, step-by-step guide to setting up and admi
 ## Prerequisites
 - A virtual machine running Windows Server 2022
 - Basic understanding of networking and Windows administration
+
+[Download the original PDF guide](guide/)
